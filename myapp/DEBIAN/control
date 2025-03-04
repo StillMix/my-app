@@ -1,0 +1,5 @@
+Package: myapp
+Version: 1.0.0
+Architecture: all
+Maintainer: Роман
+Description: Vue.js-приложение без серверной части
